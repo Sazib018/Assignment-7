@@ -38,10 +38,10 @@ const Navbar = () => {
                     <ul
                         className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52"
                     >
-                        <li><a href="/">Home</a></li>
-                        <li><a href="/recipes">Recipes</a></li>
-                        <li><a href="/about">About</a></li>
-                        <li><a href="/search">Search</a></li>
+                        <li><a href="/home" className="hover:text-blue-500">Home</a></li>
+                        <li><a href="/recipes" className="hover:text-blue-500">Recipes</a></li>
+                        <li><a href="/about" className="hover:text-blue-500">About</a></li>
+                        <li><a href="/search" className="hover:text-blue-500">Search</a></li>
                     </ul>
                 )}
             </div>
@@ -49,10 +49,10 @@ const Navbar = () => {
 
             <div className="navbar-center hidden lg:flex">
                 <ul className="flex gap-12">
-                    <li><a href="/">Home</a></li>
-                    <li><a href="/recipes">Recipes</a></li>
-                    <li><a href="/about">About</a></li>
-                    <li><a href="/search">Search</a></li>
+                    <li><a href="/home" className="hover:text-blue-500">Home</a></li>
+                    <li><a href="/recipes" className="hover:text-blue-500">Recipes</a></li>
+                    <li><a href="/about" className="hover:text-blue-500">About</a></li>
+                    <li><a href="/search" className="hover:text-blue-500">Search</a></li>
                 </ul>
             </div>
 
