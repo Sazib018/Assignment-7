@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import { FaFire, FaRegClock } from 'react-icons/fa';
 import { toast, ToastContainer } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
+
 
 const RecipeCard = () => {
     const [recipeDatas, setRecipeDatas] = useState([]);
