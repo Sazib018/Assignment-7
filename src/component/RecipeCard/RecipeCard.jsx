@@ -27,6 +27,7 @@ const RecipeCard = () => {
     /*  Preparing button click remove from Want to Cook  */
     const handleCurrentlyCooking = (recipe) => {
         const updatedWantToCook = wantToCookRecipes.filter(r => r.recipe_id !== recipe.recipe_id);
+        
        /* Add currently cooking  */
         setWantToCookRecipes(updatedWantToCook);
         setCurrentlyCookingRecipes([...currentlyCookingRecipes, recipe]);
@@ -80,7 +81,7 @@ const RecipeCard = () => {
                     ))}
             </div>
 
-            <div className='flex flex-col ml-6'>
+            <div className='flex flex-col ml-6 lg:gap-6 gap-3'>
            {/*  Want to cook section */}
                 <div className="w-full lg:w-[514px] mt-8 lg:mt-0 border p-6 rounded-lg shadow">
                     <h2 className="text-2xl font-bold text-center mb-4">Want to Cook: ({wantToCookRecipes.length})</h2>
@@ -142,7 +143,7 @@ const RecipeCard = () => {
                     </div>
                 </div>
             </div>
-            <ToastContainer />
+           <ToastContainer className={('text-center')}></ToastContainer>
         </div>
     );
 };
