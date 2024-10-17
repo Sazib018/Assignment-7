@@ -3,6 +3,7 @@ import Banner from './component/Banner/Banner'
 import Navbar from './component/Navbar/Navbar'
 
 
+
 function App() {
 
   return (
@@ -11,6 +12,8 @@ function App() {
     <div>
       <Banner></Banner>
     </div>
+
+    
     </div>
   )
 }
