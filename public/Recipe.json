@@ -1,6 +1,6 @@
 [
     {
-        "recipe_image": "https://example.com/images/chicken_stir_fry.jpg",
+        "recipe_image": "https://i.ibb.co.com/DRMHcvb/th-2.jpg",
         "recipe_id": "1",
         "recipe_name": "Chicken Stir Fry",
         "short_description": "A quick and easy chicken stir fry with fresh vegetables.",
@@ -16,7 +16,7 @@
         "calories": "320 calories"
     },
     {
-        "recipe_image": "https://example.com/images/spaghetti_carbonara.jpg",
+        "recipe_image": "https://i.ibb.co.com/X3rKq0c/th-3.jpg",
         "recipe_id": "2",
         "recipe_name": "Spaghetti Carbonara",
         "short_description": "A classic Italian pasta dish with creamy sauce and bacon.",
@@ -32,7 +32,7 @@
         "calories": "540 calories"
     },
     {
-        "recipe_image": "https://example.com/images/vegetable_curry.jpg",
+        "recipe_image": "https://i.ibb.co.com/2hjrkL9/th-1.jpg",
         "recipe_id": "3",
         "recipe_name": "Vegetable Curry",
         "short_description": "A flavorful and spicy curry packed with vegetables.",
@@ -48,7 +48,7 @@
         "calories": "290 calories"
     },
     {
-        "recipe_image": "https://example.com/images/beef_tacos.jpg",
+        "recipe_image": "https://i.ibb.co.com/nbpTTz5/th-4.jpg",
         "recipe_id": "4",
         "recipe_name": "Beef Tacos",
         "short_description": "Tasty beef tacos with fresh toppings.",
@@ -64,7 +64,7 @@
         "calories": "450 calories"
     },
     {
-        "recipe_image": "https://example.com/images/chocolate_cake.jpg",
+        "recipe_image": "https://i.ibb.co.com/gWD2smp/th-5.jpg",
         "recipe_id": "5",
         "recipe_name": "Chocolate Cake",
         "short_description": "A rich and moist chocolate cake for dessert lovers.",
@@ -80,7 +80,7 @@
         "calories": "360 calories"
     },
     {
-        "recipe_image": "https://example.com/images/salad.jpg",
+        "recipe_image": "https://i.ibb.co.com/fCqXwNr/download.jpg",
         "recipe_id": "6",
         "recipe_name": "Caesar Salad",
         "short_description": "A classic Caesar salad with homemade dressing.",
