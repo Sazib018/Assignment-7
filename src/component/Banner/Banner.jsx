@@ -13,11 +13,11 @@ const Banner = () => {
                 Learn and Master Basic Programming, Data Structures, Algorithm, OOP, Database and solve 500+ coding problems to become an exceptionally well world-class Programmer.
             </p>
             <div className="space-x-6">
-                <button className="btn bg-[#0BE58A] hover:bg-transparent border-2 border-[#0BE58A] rounded-[50px] px-4 py-3 text-lg font-semibold text-[#150B2B] transition duration-250 ease-in-out md:px-[30px] md:py-5 md:text-xl">
+                <button className="btn bg-[#0BE58A] hover:bg-transparent border-2 border-[#0BE58A] hover:text-white rounded-[50px] px-4 py-3 text-lg font-semibold text-[#150B2B] transition duration-250 ease-in-out md:px-[30px] md:py-5 md:text-xl">
                     Explore Now
                 </button>
 
-                <button className="btn btn-ghost px-4 py-3 text-lg font-semibold text-white border-2 border-white hover:bg-[#0BE58A] rounded-[50px] transition duration-250 ease-in-out md:px-[30px] md:py-5 md:text-xl">
+                <button className="btn btn-ghost px-4 py-3 text-lg font-semibold text-white border-2 border-white hover:bg-[#0BE58A] hover:text-black rounded-[50px] transition duration-250 ease-in-out md:px-[30px] md:py-5 md:text-xl">
                     Our Feedback
                 </button>
 
